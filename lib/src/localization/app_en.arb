@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutter_google_bard",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
